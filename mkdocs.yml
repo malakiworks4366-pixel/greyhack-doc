@@ -104,3 +104,48 @@ nav:
       - Networking Basics: gameplay/networking.md
       - Default Ports & Services: gameplay/ports.md
       - Libraries & Exploits: gameplay/exploits.md
+      - Wi-Fi: gameplay/wifi.md
+      - Passwords & Hashes: gameplay/passwords.md
+      - Logs & Covering Tracks: gameplay/logs.md
+      - Missions & Money: gameplay/missions.md
+      - Securing Your Machine: gameplay/security.md
+  - Terminal:
+      - terminal/index.md
+      - Command Reference: terminal/commands.md
+      - Package Manager (apt-get): terminal/apt.md
+  - GreyScript:
+      - greyscript/index.md
+      - Language Basics: greyscript/basics.md
+      - Data Types: greyscript/types.md
+      - Functions & Objects: greyscript/functions.md
+      - Imports & Libraries: greyscript/imports.md
+      - API Overview: greyscript/api-overview.md
+      - Recipes: greyscript/recipes.md
+  - Player Tools:
+      - tools/index.md
+      - Development:
+          - Greybel JS: tools/greybel-js.md
+          - Greybel VS: tools/greybel-vs.md
+          - GreyScript (VS Code): tools/greyscript-vscode.md
+          - GreyScript Prime: tools/greyscript-prime.md
+          - Message Hook & Mods: tools/mods.md
+      - Shells & Frameworks:
+          - 5hell: tools/5hell.md
+          - 5hell Command Reference: tools/5hell-commands.md
+          - Kore: tools/kore.md
+          - FancyBash: tools/fancybash.md
+      - Languages:
+          - Glosure: tools/glosure.md
+          - Marinette: tools/marinette.md
+          - Clojette: tools/clojette.md
+      - Hacking Utilities:
+          - Airlink: tools/airlink.md
+          - Weaver: tools/weaver.md
+          - CerboScan: tools/cerboscan.md
+          - Darkvalnar Exploit Suite: tools/exploit-suite.md
+          - Script Collections: tools/collections.md
+  - Community:
+      - community/index.md
+      - Glossary: community/glossary.md
+      - FAQ: community/faq.md
+      - Contributing: community/contributing.md
