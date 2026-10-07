@@ -1,0 +1,29 @@
+:root {
+  --md-primary-fg-color: #1f7a52;
+  --md-primary-fg-color--light: #39d98a;
+  --md-primary-fg-color--dark: #145c3c;
+  --md-accent-fg-color: #2fbf77;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #0f1a14;
+  --md-accent-fg-color: #39d98a;
+  --md-default-bg-color: #0b0f0d;
+  --md-code-bg-color: #111814;
+  --md-typeset-a-color: #39d98a;
+}
+.md-typeset h1, .md-typeset h2 { letter-spacing: -0.01em; }
+
+/* hero */
+.gh-hero { padding: 2.5rem 0 1.5rem; }
+.gh-hero h1 { font-size: 2.6rem; font-weight: 800; margin: 0 0 .4rem; }
+.gh-hero p { font-size: 1.1rem; max-width: 42rem; opacity: .85; }
+.gh-hero .gh-prompt { font-family: var(--md-code-font-family); color: var(--md-accent-fg-color); }
+
+/* tool badges */
+.gh-badge {
+  display: inline-block; font-size: .7rem; font-weight: 600; padding: .1rem .5rem;
+  border-radius: 1rem; border: 1px solid var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color); margin-right: .3rem; vertical-align: middle;
+}
+.gh-meta { width: 100%; }
+.gh-meta td:first-child { font-weight: 600; white-space: nowrap; }
